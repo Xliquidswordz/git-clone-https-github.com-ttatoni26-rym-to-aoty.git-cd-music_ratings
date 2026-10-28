@@ -2667,4 +2667,3 @@ RYM Album, First Name,Last Name,First Name localized, Last Name localized,Title,
 "12198042","","青葉市子","Ichiko","Aoba","アダンの風","2020","8","n","","","",""
 "335783","","非常階段","","Hijokaidan","蔵六の奇病","1982","8","n","","","",""
 "600655","","鴉","","","血涙","2005","5","n","","","",""
-python main.py
